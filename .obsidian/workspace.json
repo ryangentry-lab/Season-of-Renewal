@@ -1,0 +1,31 @@
+{
+  "main": {
+    "id": "e7afa4feac31cc54",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9fa5c9cad01e01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd04cef1d2e1875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "active": "ffd04cef1d2e1875",
+  "lastOpenFiles": [
+    "START HERE.md"
+  ]
+}
