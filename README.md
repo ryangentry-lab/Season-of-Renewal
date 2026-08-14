@@ -53,27 +53,13 @@ The files in this project are ordinary Markdown files and can also be opened in 
 
 ## Planned Obsidian Setup
 
-The finished vault's `START HERE.md` will include setup instructions for the following core features.
-
-### Daily notes
-
-- Set Obsidian settings to create new daily notes inside `Daily Journal/`.
-- Use `Templates/Daily Note Template.md` as the daily-note template.
-- Use a consistent date format, initially `YYYY-MM-DD`.
-
-See the official [Obsidian Daily notes documentation](https://obsidian.md/help/plugins/daily-notes).
-
-### Templates
-
-Enable the **Templates** core plugin and point its template-folder setting to `Templates/`.
-
-### Attachments
-
-Under **Settings → Files and links**, set the default location for new attachments to the `Assets/` folder. This keeps pasted images and other embedded material out of the working-note folders.
-
-### Instruction Within `START HERE.MD`
-
-Exact setup steps and screenshots may be added after the vault structure is stable.
+The finished vault's `START HERE.md` will include setup instructions for navigating the vault. Properly imported repos will include the `.obsidian` folder that includes recommended default settings:
+- Daily Notes savings to dedicated folder
+- Daily Notes template pointing to the template `/Templates/Daily Note Template.md`
+- New attachments pasted into vault will save to `/Assets` folder.
+- Templates are taken from `/Templates` folder
+- All Core plugins are turned on by default
+- Workspace and appearance are within `.gitignore` and will regenerate each time vault is opened for the first time. (In future, may have open `START HERE.md` by default for first vault opening)
 
 ## Planned Vault Structure
 
@@ -210,10 +196,10 @@ The initial framework will be distilled from Ryan's existing Obsidian vault. Mat
 
 ### Phase 1 — Build the skeleton
 
-- [ ] Create the vault and planned folders.
+- [X] Create the vault and planned folders.
 - [ ] Add placeholder notes with a clear purpose statement in each.
-- [ ] Configure Daily notes, Templates, and the attachment folder.
-- [ ] Confirm the vault works with the default theme and only core plugins.
+- [X] Configure Daily notes, Templates, and the attachment folder.
+- [X] Confirm the vault works with the default theme and only core plugins.
 
 ### Phase 2 — Extract the lived framework
 
