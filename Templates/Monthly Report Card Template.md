@@ -1,0 +1,3 @@
+There will be an AI prompt here to help develop a template based on the users own Focus Areas and targeted daily rhythm. Depending on the capacity, these metrics will be curated to each person's season.
+
+Monthly check-ins are about larger projects and not losing the "big picture" during each of the phases. Allowing complete focus on daily rhythms and targets give better energy discipline rather than spending energy always worrying about "self-improvement" plans and spend more energy on just *living*.

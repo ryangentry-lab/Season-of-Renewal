@@ -6,6 +6,10 @@ Season of Renewal is a practical framework for bringing intention, structure, an
 
 The framework is meant to help someone create enough structure to move forward with intention.
 
+## License
+
+Season of Renewal © 2026 by Ryan Gentry is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 ## Goal
 
 Create an approachable, adaptable system that helps people:
@@ -68,14 +72,13 @@ season-of-renewal/
 ├── README.md
 ├── START HERE.md
 ├── 01 - Your Season/
-│   ├── Name Your Season.md
 │   ├── Starting Point.md
-│   └── Boundaries.md
+│   └── Name Your Season.md
 ├── 02 - Phases/
 │   ├── Departure.md
 │   ├── Recovery.md
 │   ├── Soul Search.md
-│   ├── Preparation.md
+│   ├── Strengthen.md
 │   └── Action.md
 ├── 03 - Focus Areas/
 │   ├── Choose Your Focus Areas.md
@@ -117,7 +120,7 @@ Help the user define:
 
 ### `02 - Phases`
 
-Explain the possible movement from departure through recovery, soul search, preparation, and action. Each phase should include:
+Explain the possible movement from departure through recovery, soul search, strengthen, and action. Each phase should include:
 
 - Its purpose.
 - Signals that it may be needed.
@@ -194,10 +197,10 @@ The initial framework will be distilled from Ryan's existing Obsidian vault. Mat
 
 ## Build Plan
 
-### Phase 1 — Build the skeleton
+### ~~Phase 1 — Build the skeleton~~
 
 - [X] Create the vault and planned folders.
-- [ ] Add placeholder notes with a clear purpose statement in each.
+- [X] Add placeholder notes with a clear purpose statement in each.
 - [X] Configure Daily notes, Templates, and the attachment folder.
 - [X] Confirm the vault works with the default theme and only core plugins.
 
@@ -230,7 +233,7 @@ The initial framework will be distilled from Ryan's existing Obsidian vault. Mat
 ### Phase 5 — Prepare the first release
 
 - [ ] Edit for clarity, consistency, privacy, and tone.
-- [ ] Choose a license and contribution policy if publishing through GitHub.
+- [X] Choose a license and contribution policy if publishing through GitHub.
 - [ ] Add screenshots only where they materially improve setup.
 - [ ] Package a clean downloadable vault.
 - [ ] Decide whether the primary home will be GitHub, the Gentry Advisory website, Substack, or a combination of them.
@@ -254,3 +257,4 @@ Version 1 is complete when a person unfamiliar with Ryan's original vault can:
 These decisions can remain open while the first draft is being built:
 
 - Should **Preparation** remain broad or be called **Upskill**?
+    - Changed to **strengthen** 

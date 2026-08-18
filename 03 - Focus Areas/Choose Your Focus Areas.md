@@ -1,0 +1,1 @@
+Selecting focus areas for each of the phases. Think of these areas as the foundation for making the rest of the Season of Renewal possible and resources that will fertilize your future growth.

@@ -1,0 +1,1 @@
+An intentional plan for the day. A definitive beginning, middle, and end for each day. Incorporating documenting your day with Daily Notes within Obsidian, and capturing evergreen ideas into your focus areas and more categorized notes in this vault.

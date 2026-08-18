@@ -1,0 +1,3 @@
+Prompts used for AI LLMs to digest, analyze, and provide insight. Uploading each of your Daily Note, and supporting goal set markdown files are efficiently read by frontier model AI, and with large context windows can give bite size analysis of phased progress, and allow for accountability for things you promised yourself in each of the phases. 
+
+The weekly check-ins will aim for smallest practical movement of each of your goals. It'll seem silly and overly easy, and that's the point. It will build momentum if you trust the process.

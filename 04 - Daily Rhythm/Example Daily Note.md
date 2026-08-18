@@ -1,0 +1,3 @@
+The honest truth from [[Ryan's Season of Renewal]] is that each daily note started blank most of the time. As the Focus Areas began to feel more like common buckets to keep full, this daily notes evolved on their own. Short quick blips of notes through each major time block throughout the day that referenced more deeper materials elsewhere in the Obsidian Vault became commonplace towards the end of the Season of Renewal.
+
+[[Daily Note Template]] will give an idea of general thoughts that passed my thoughts each day, but more often then not if you keep to the [[Design Your Day]] rhythm, the notes will come naturally.

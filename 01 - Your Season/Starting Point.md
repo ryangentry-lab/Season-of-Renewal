@@ -1,0 +1,1 @@
+The **before** state of your Season of Renewal.
