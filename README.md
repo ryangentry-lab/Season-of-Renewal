@@ -206,11 +206,11 @@ The initial framework will be distilled from Ryan's existing Obsidian vault. Mat
 
 ### Phase 2 — Extract the lived framework
 
-- [ ] Review the original Season of Renewal notes.
-- [ ] Identify the recurring practices that were actually used.
+- [X] Review the original Season of Renewal notes.
+- [X] Identify the recurring practices that were actually used.
 - [ ] Separate reusable principles from personal history.
 - [ ] Select a small set of representative examples.
-- [ ] Record where the original plan changed in response to experience.
+- [X] Record where the original plan changed in response to experience.
 
 ### Phase 3 — Write the guided experience
 
